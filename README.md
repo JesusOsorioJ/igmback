@@ -53,6 +53,13 @@ Para ejecutar este proyecto, necesitas tener instalado:
 
     Configura las variables de entorno para la base de datos y otros servicios en el archivo `.env`.
 
+    - DB_CONNECTION
+    - DB_HOST
+    - DB_PORT
+    - #DB_DATABASE
+    - DB_USERNAME
+    - DB_PASSWORD
+
 ## Uso
 
 1. **Migrar la base de datos:**
