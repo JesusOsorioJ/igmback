@@ -44,7 +44,7 @@ Para ejecutar este proyecto, necesitas tener instalado:
     ```bash
     cp .env.example .env
     ```
-
+    
     Genera la clave de la aplicación:
 
     ```bash
