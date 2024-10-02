@@ -39,19 +39,19 @@ Para ejecutar este proyecto, necesitas tener instalado:
 
 ## Configuración
 
-    Copia el archivo `.env.example` y renómbralo a `.env`:
+Copia el archivo `.env.example` y renómbralo a `.env`:
 
     ```bash
     cp .env.example .env
     ```
     
-    Genera la clave de la aplicación:
+Genera la clave de la aplicación:
 
     ```bash
     php artisan key:generate
     ```
 
-    Configura las variables de entorno para la base de datos y otros servicios en el archivo `.env`.
+Configura las variables de entorno para la base de datos y otros servicios en el archivo `.env`.
 
 - DB_CONNECTION
 - DB_HOST
